@@ -1,0 +1,5 @@
+CREATE TABLE Currency
+currency varchar(20), 
+currencyChName varchar(20) ,
+exchangeRate varchar(20),
+updateTime TIMESTAMP);
